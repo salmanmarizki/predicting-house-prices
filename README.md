@@ -1,2 +1,2 @@
 # predicting-house-prices
-Predicting house prices with various machine learning model 
+Predicting house prices with simple decision tree & random forest machine learning model 
