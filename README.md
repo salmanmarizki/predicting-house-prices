@@ -1,2 +1,3 @@
 # predicting-house-prices
-[LBD] Learn By Doing - Predicting house prices with simple decision tree & random forest machine learning model 
+All from Kaggle learn and a part of my journey to learn Data Vizualization & Basic Machine Learning.
+Links: https://www.kaggle.com/learn/
